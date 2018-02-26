@@ -1,0 +1,13 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  飞机大战.cpp
+d:\visualstudio2017\飞机大战\飞机大战\飞机大战.cpp(49): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\visualstudio2017\飞机大战\飞机大战\飞机大战.cpp(153): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+d:\visualstudio2017\飞机大战\飞机大战\飞机大战.cpp(131): warning C4101: “i”: 未引用的局部变量
+d:\visualstudio2017\飞机大战\飞机大战\飞机大战.cpp(350): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\visualstudio2017\飞机大战\飞机大战\飞机大战.cpp(353): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\visualstudio2017\飞机大战\飞机大战\飞机大战.cpp(352): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\visualstudio2017\飞机大战\飞机大战\飞机大战.cpp(369): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  飞机大战.vcxproj -> D:\visualstudio2017\飞机大战\Debug\飞机大战.exe
